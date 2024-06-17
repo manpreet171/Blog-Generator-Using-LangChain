@@ -1,0 +1,6 @@
+sentence-transformers
+uvicorn
+cTransformers
+langchain
+streamlit
+python-box
